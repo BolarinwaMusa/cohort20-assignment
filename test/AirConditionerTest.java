@@ -117,5 +117,7 @@ public class AirConditionerTest {
         airConditioner.decreaseTemperature();
         assertEquals(16, airConditioner.getTemperature());
     }
+
     }
+
 
